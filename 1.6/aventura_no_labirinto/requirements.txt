@@ -1,0 +1,4 @@
+
+rich>=13.7.0
+pynput>=1.7.6
+playsound==1.2.2
